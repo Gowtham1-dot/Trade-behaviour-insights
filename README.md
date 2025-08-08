@@ -36,13 +36,5 @@ This project analyzes how market sentiment — derived from the Bitcoin Fear & G
 2. Open `Trader_Sentiment_Insights.ipynb` in Jupyter Notebook or VS Code.
 3. Run all cells to reproduce the analysis.
 
-## 📧 Submission
 
-Submit this notebook along with your resume via email as per instructions:
-
-**Subject:** `Junior Data Scientist – Trader Behavior Insights`  
-**To:** `saami@bajarangs.com`, `nagasai@bajarangs.com`, `chetan@bajarangs.com`  
-**CC:** `sonika@primetrade.ai`
-
----
 
